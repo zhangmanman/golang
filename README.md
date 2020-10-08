@@ -1,6 +1,4 @@
-# golang
-master1
-master2
+# golang  
 rebase1  
 rebase2  
 rebase3
