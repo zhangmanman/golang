@@ -13,11 +13,8 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
-*.iml
-misc.xml
-module.xml
-vcs.xml
-workspace.xml
-
 /.idea/golang.iml
+/.idea/misc.xml
 /.idea/modules.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
